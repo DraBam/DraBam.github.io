@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>文章测试</title>
+    <link href="/2024/05/31/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+    <url>/2024/05/31/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;首行缩进测试，看一下有没空格有没标签有没分类有没摘要，二行继续test。<br>&emsp;&emsp;二段测试。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Article</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>hi</title>
     <link href="/2024/05/31/hi/"/>
     <url>/2024/05/31/hi/</url>
